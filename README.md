@@ -9,6 +9,8 @@ also about 11 years of administering software products and servers based on Wind
 
 ⚙️ Technological stack: `Python`, `Flask`, `Django`, `PostgreSQL`, `REST API`, `JavaScript`, `Git`, `GitHub`, `GitLab`, `Docker`, `Bootstrap` etc.
 
+👨🏻‍🎓 Course Curator `Learn Python`
+
 🗣 Community: `Moscow Python`, `Moscow Python Beer`
 
 📬 Reach me: [Telegram](https://t.me/n05tr0m0)<br />
