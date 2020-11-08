@@ -2,7 +2,7 @@
 
 I'm a ![Python Icon](https://img.icons8.com/ios/24/000000/python.png) `Python developer` 💻
 
-🌆 Live at `Moscow`.
+🌆 Live in `Moscow`.
 
 More than a 2 years of Python programming experience for web-application, <br />
 also about 11 years of administering software products and servers based on Windows and Linux.
