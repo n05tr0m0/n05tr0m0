@@ -1,6 +1,6 @@
 #### Hi everyone!
 
-I'm a ![Python Icon](https://img.icons8.com/ios/24/000000/python.png) `Python developer` 💻
+I'm a `Software engineer` 💻
 
 🌆 I'm live in `Moscow`.
 
