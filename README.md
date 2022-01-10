@@ -16,4 +16,4 @@ Dealing with software solutions and servers with Windows and Linux operating sys
 
 📬 Reach me: [Telegram](https://t.me/n05tr0m0)<br />
 🌍 Website: [n05tr0m0.site](https://n05tr0m0.site)<br />
-🏍 Hobby: `Motorcycles`, `3D Modeling [UE, Blender]`!<br />
+🏍 Hobby: `Motorcycles`, `3D Modeling [Blender]`!<br />
