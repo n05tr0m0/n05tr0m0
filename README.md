@@ -6,8 +6,6 @@ More than 3 years of Python programming experience in web application developmen
 About 11 years of experience in administration of IT solutions.<br>
 Dealing with software solutions and servers with Windows and Linux operating systems.<br>
 
-⚙️ Technological stack: `Python`, `Flask`, `Unix`, `PostgreSQL`, `REST API`, `JavaScript`, `Prometheus`, `Grafana`, `GitHub`, `GitLab`, `Docker`, `Marshmallow`, `Celery` etc.
-
 👨🏻‍🎓 Course Curator: `Learn Python`
 
 📬 Reach me: [Telegram](https://t.me/n05tr0m0)<br />
