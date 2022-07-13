@@ -2,9 +2,9 @@
 
 I'm a `Software engineer` 💻
 
-More than 4 years of Python programming experience in web application development using Python.<br>
-About 11 years of experience in administration of IT solutions.<br>
-Dealing with software solutions and servers with Windows and Linux operating systems.<br>
+About 11 years of administering of IT solutions (software products, servers based on Linux and Windows operation systems).<br>
+Also, more than a 4 years of Python programming experience. I have a good soft skills level.<br>
+Built a microservice architecture and also developed an asynchronous event-driven data processing system.<br>
 
 👨🏻‍🎓 Course Curator: `Learn Python`
 
