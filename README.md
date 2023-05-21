@@ -1,6 +1,6 @@
 #### Hi everyone!
 
-I'm a `software engineer` 💻
+I'm a `software developer` 💻
 
 About 11 years of administering of IT solutions (software products, servers based on Linux and Windows operation systems).<br>
 Also, more than a 4 years of Python programming experience. I have a good soft skills level.<br>
