@@ -1,6 +1,6 @@
 #### Hi everyone!
 
-I'm a `software developer` 💻
+I'm a `software developer` 💻<br>
 My name is pronounced as [ muːs'liːm ]
 
 About 11 years of administering of IT solutions (software products, servers based on Linux and Windows operation systems).<br>
