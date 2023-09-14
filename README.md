@@ -7,7 +7,7 @@ About 11 years of administering of IT solutions (software products, servers base
 Also, more than a 5+ years of commercial Python programming experience. Good soft skills level.<br>
 Built a microservice architecture and also developed an asynchronous event-driven data processing system.<br>
 
-👨🏻‍🎓 Course Curator: [`Learn Python`](learn.python.ru)
+👨🏻‍🎓 Course Curator: [`Learn Python`](https://learn.python.ru)
 
 📬 Reach me: [Telegram](https://t.me/n05tr0m0)<br />
 🏍 Hobby: `Motorcycles`, `3D Modeling [Blender]`!<br />
