@@ -4,7 +4,7 @@ I'm a `software developer` 💻<br>
 My name is pronounced as [ muːs'liːm ]
 
 About 11 years of administering of IT solutions (software products, servers based on Linux and Windows operation systems).<br>
-Also, more than a 5+ years of commercial Python programming experience. Good soft skills level.<br>
+Also, more than a 6+ years of commercial Python programming experience. Good soft skills level.<br>
 Built a microservice architecture and also developed an asynchronous event-driven data processing system.<br>
 
 👨🏻‍🎓 Course Curator: [`Learn Python`](https://learn.python.ru)
