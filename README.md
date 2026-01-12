@@ -1,4 +1,4 @@
-#### Hi everyone!
+#### Hello everyone!
 
 I'm a Team Lead and Senior Python Developer specializing in AI-powered healthcare backend systems<br>
 
