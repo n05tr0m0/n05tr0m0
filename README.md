@@ -1,13 +1,13 @@
 #### Hi everyone!
 
-I'm a `software developer` 💻<br>
-My name is pronounced as [ muːs'liːm ]
+I'm a Team Lead and Senior Python Developer specializing in AI-powered healthcare backend systems<br>
 
-About 11 years of administering of IT solutions (software products, servers based on Linux and Windows operation systems).<br>
-Also, more than a 6+ years of commercial Python programming experience. Good soft skills level.<br>
-Built a microservice architecture and also developed an asynchronous event-driven data processing system.<br>
+I design and build integration platforms that connect medical organizations with diagnostic AI vendors, <br>
+focusing on reliable data routing, vendor onboarding, and production readiness. <br>
+My work combines system architecture (DDD/EDA, microservices), strong engineering practices (CI/CD, observability, testing),  <br>
+and hands-on leadership. <br>
 
-👨🏻‍🎓 Former course curator and host: [`Learn Python`](https://learn.python.ru)
+My core stack: Python, Apache Kafka, FastAPI, Stream Processing, Docker, PostgreSQL, DICOM, Linux and more.
 
-📬 Reach me: [Telegram](https://t.me/n05tr0m0)<br />
-🏍 Hobby: `Motorcycles`, `3D Modeling [Blender]`!<br />
+📬 Reach me: [LinkedIn](https://www.linkedin.com/in/n05tr0m0/)<br />
+🏍 Hobby: `Motorcycles`
